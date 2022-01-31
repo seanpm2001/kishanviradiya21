@@ -21,17 +21,16 @@ Here are some ideas to get you started:
   <!-- <summary>Stack Overflow</summary> -->
   <p align="center">
     <a href="https://stackoverflow.com/users/16440819" target="_blank">
-      <img src="https://github-readme-stackoverflow.vercel.app/?userID=16440819&theme=dark" alt="Kishan Viradiya StackOverflow" />
+      <img src="https://github-readme-stackoverflow.vercel.app/?userID=16440819&theme=dark" alt="Kishan Viradiya StackOverflow" /> 
     </a>
   </p>
 <!-- </details> -->
 
 ## Prefs
-
 <table>
   <tr>
     <th>Technologies</th>
-    <td>
+    <td> 
      <img src="https://img.shields.io/badge/Flutter-0078D6?style=for-the-badge&logo=flutter"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
     </td>
     </tr>
@@ -54,7 +53,6 @@ Here are some ideas to get you started:
 <!-- </details> -->
 
 ## Activity Graph
-
 <p align="center">
 <a href="https://github.com/kishanviradiya21/">
  <img src="https://activity-graph.herokuapp.com/graph?username=kishanviradiya21&bg_color=0d1117&theme=react-dark&area=true&hide_border=true" width="100%">
@@ -62,8 +60,7 @@ Here are some ideas to get you started:
 </p>
 </br>
 
-## Languages Used
-
+##  Languages Used
 <p align="center">
 <!--<img src="https://github-readme-stats.vercel.app/api?username=kishanviradiya21&count_private=true&show_icons=true&theme=vue-dark&hide_border=true" height="205"> -->
 <a href="https://github.com/kishanviradiya21/kishanviradiya21">
@@ -72,10 +69,10 @@ Here are some ideas to get you started:
 </a>
 </p>
 
-## Connect with Me
-
+## Connect with Me 
 <p align="left">
 <a href="https://www.linkedin.com/in/kishan-viradiya/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/kishanviradiya21/kishanviradiya21/main/assets/svgs/linkedin.svg" alt="Kishan viradiya Linkedin" height="30" width="50" /></a>
 <a href="https://stackoverflow.com/users/16440819/46-2448-kishan-viradiya" target="_blank"><img align="center" src="https://raw.githubusercontent.com/kishanviradiya21/kishanviradiya21/main/assets/svgs/stack-overflow.svg" alt="Kishan Viradiya Stackoverflow" height="30" width="50" /></a>
 <a href="https://www.instagram.com/viradiya_kishan_s/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/kishanviradiya21/kishanviradiya21/main/assets/svgs/instagram.svg" alt="Kishan Viradiya Instagram" height="30" width="50" /></a>
 </p>
+<p align="right">last updated on : <b>Jan 31, 2022 02:10 PM</b></p>
