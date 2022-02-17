@@ -2,7 +2,7 @@ name: setLastUpdatedOn
 on:
   push:
     branches:
-    - main
+      - main
   schedule:
     - cron: "0 */1 * * 1-5" # Cron Every Hour
   workflow_dispatch:
